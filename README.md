@@ -1,5 +1,5 @@
 # CandyShopFinal
 
-#Groupal project for university using Java and Java Swing
+##Groupal project for university using Java and Java Swing
 
-## CandyShop.jar executable 
+- Download CandyShop.jar executable 
