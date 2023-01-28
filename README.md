@@ -2,4 +2,4 @@
 
 ## Groupal project for university using Java and Java Swing
 
-- Download repository to test CandyShop.jar executable 
+- Download CandyShop.jar to test the executable.
